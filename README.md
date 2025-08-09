@@ -29,8 +29,7 @@ npm run dev
 ```
 
 Visit:
-- `http://localhost:3000` → AI summary page
-- `http://localhost:3000/editor` → Markdown editor
+- `http://localhost:3000` → Article geenrated by AI using button when used.
 
 ## Deploy on Vercel
 
