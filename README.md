@@ -4,10 +4,8 @@ A boilerplate for a decoupled Drupal + Next.js application using GPT-4 for AI-ge
 
 ## Tech Stack
 - Next.js 14 (App Router, TypeScript)
-- Tailwind CSS
 - Drupal (JSON:API enabled)
 - OpenAI GPT-4 API
-- React Markdown Editor
 
 ## 🔧 Getting Started
 
@@ -17,7 +15,7 @@ A boilerplate for a decoupled Drupal + Next.js application using GPT-4 for AI-ge
 npm install
 ```
 
-2. Create a `.env.local` file:
+2. Create a `.env.local` file (copythe example.env.local):
 
 ```
 DRUPAL_BASE_URL=https://your-drupal-site.com
